@@ -5,16 +5,16 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2025
-customText = "ypa"
+since = 2020
+customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "👍"
-subtitle = "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving."
+emoji = "🍥"
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 [sidebar.avatar]
 enabled = true
@@ -28,7 +28,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-ND 4.0"
+default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
