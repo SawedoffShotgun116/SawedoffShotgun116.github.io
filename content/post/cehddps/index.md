@@ -11,13 +11,14 @@ tags:
   - 生存  
   - 省钱  
   - 生活黑客  
-language: zh-Hans  
-
-author: SawedoffShotgun114  
+UDC: "613.2"  
+  
+author: SawedoffShotgun116  
 license: CC BY-NC-ND 4.0  
-
+language: zh-Hans  
+  
 date: 2023-08-20T12:24:00  
-updated: 2025-03-03T22:56:00  
+updated date: 2025-04-19T17:46:00  
 versions: 2.0.3.1  
 word count: 10854 (字数)(核心部分(正文)字数5610字)  
 ---
@@ -25,7 +26,7 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
 [Click HERE for English version (English)](https://www.zhihu.com/question/528872271/answer/3543218272)  
 [点此查看简体中文版本](https://www.zhihu.com/question/528872271/answer/3543218272)  
 
-如您正阅读本文档的离线版，推荐使用Markdown阅读器/Markdown编辑器阅读.md格式的本文档以获得最佳阅读效果 (点此) => [Editor.md - 开源在线 Markdown 编辑器](https://link.zhihu.com/?target=http%3A//editor.md.ipandao.com/index.html)  
+如您正阅读本文档的离线版，推荐使用Markdown阅读器/Markdown编辑器阅读.md格式的本文档以获得最佳阅读效果 (点此) => [Editor.md - 开源在线 Markdown 编辑器](http://editor.md.ipandao.com/)
 
 ------------------------------------------
 
@@ -38,43 +39,42 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
 
   3. 用户画像 及 对应本方案内容 (善用搜索功能而搜索引号内的关键词/关键章节名)  
  
-    1. **第一次阅读本文**
+    1. **第一次阅读本文**  
       - 通读全文 或 仅阅读核心部分("1. 方案介绍" 与 "2. 具体方案") ; (非必读: "免责协议、版权声明、建议批评", "更新日志", "另见")
-    2. **此前已阅读全文**，希望快速查询 具体操作规程操作方法  
+    2. **此前已阅读全文** (希望快速查询 具体操作规程操作方法)  
       - "更新日志" (如读者已有阅读先前版本(2025.03.01之前/2.0.3.1或更早版本)
       - "方案总结回顾"  
     3. **仅希望了解如何营养健康生活**  
       - "大部分微量元素与矿物质"  
       - "胆碱/卵磷脂"  
       - "方案额外内容(选读, DLC)"  
-      - (另外，注意每天吃总计500g的蔬果(30-35g纤维素))  
+      - (另外，注意每日摄入总计500g蔬果(等效于25-35g纤维素))  
 
 ------------------------------------------
 
-##### **总目录:**    
+##### **元目录**    
 
-  **[[#用户引导]]**    
+  **[用户引导](#用户引导)**  
   
-  **[[#必读说明]]**    
-  **[[#术语定义]]**    
-  **[[#说明]]**    
-  **[[#正文目录]]**    
-  **[[#正文]]**    
+  **[必读说明](#必读说明)**  
+  **[术语定义](#术语定义)**  
+  **[说明](#说明)**  
+  **[目录](#目录)**  
+  **[正文](#正文)**  
 
-  **[[#方案总结回顾]]**    
+  **[方案总结回顾](#方案总结回顾)**  
 
-  **[[#免责协议、版权声明、建议批评]]**    
-  [[#更新日志]]    
-  [[#另见]]    
-  [[#Metadata]]
+  **[免责协议、版权声明、建议批评](#免责协议、版权声明、建议批评)**  
+  [更新日志](#更新日志)  
+  [另见](#另见)  
+  [Metadata](#Metadata)  
 
 ------------------------------------------
 
 # **必读说明**  
 
   请读者善用文档搜索功能，查找感兴趣的方面的名词 (如果读者使用电脑阅读本文档，则可同时按下Ctrl和F两个按键)  
-  文中黑体部分/荧光笔标记部分为重点  
-
+  文中 "**字体加粗部分**" 以及 "==荧光笔标记部分==" 为重点  
 
   **致敏原信息: 本方案内的物料可能含有如下常见致敏原(包括但不限于):**  
  
@@ -84,39 +84,33 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
     - **禽蛋类食品 (鸡蛋) - (扩展内容部分)**  
 
 
-  本文所有数据均基于下文的 **"[[#1.1本方案适用条件]]"**  而作 (60kg壮年健康男性)  
+  本方案所有数据大多基于下文的 **"[1.1-本方案适用条件](#1.1-本方案适用条件)"** 而作  
   **全文所有数据以及所有注意事项，均仅为建议，请根据个人情况自行判断抉择增添修改各物质用量 (例: 根据年龄体重身体状况等因素选择摄入更多或更少蛋白质)，如出现不适则请立刻停止依据本方案饮食**  
   笔者所言大部分不是废话(笔者自认为)，文中各种修饰词限定词各种标点符号皆为追求准确表达与传递信息，所以请认真阅读理解(尤其是本文内容涉及生理保健领域)  
-  "**[[#方案总结回顾]]**"章节 为 每日操作规程的总结概括，以便于快速回顾查阅对比 **(请务必在通读正文 "1 关于本方案介绍"，"2 方案具体内容"部分后(核心部分，5610字)，再根据自身情况使用"**[[#方案总结回顾]]**"章节)**  
+  "**[方案总结回顾](#方案总结回顾)**"章节 为 每日操作规程的总结概括，以便于快速回顾查阅对比 **(请务必在通读正文 "1 关于本方案介绍"，"2 方案具体内容"部分后(核心部分，5610字)，再根据自身情况使用"**[方案总结回顾](#方案总结回顾)**"章节)**  
 
 ------------------------------------------
 
-# 术语定义:
+# 术语定义
 
   - "高综合性价比每日健康饮食具体方案" 在下文被简称为: "方案" 或 "CEHDDPS"  
-  - 如无特殊情况，"1g量勺"/"勺子"/"量勺" 在下文将指代 "一种形状完美的，勺子头为半径为1cm的半球的1g量勺(即，勺子头容积为1/2\*(4/3π\*  1^3)mL(也就是大拇指甲盖那么大))" (一般而言购买小份 化学材料/食品补剂 时会赠送此类量勺)  
-   (如下图所示=>)  
-  ![1g量勺](https://xkf-upload.oss-cn-hangzhou.aliyuncs.com/t/chat_img_c/797989530/14804/202409/56/ed4466bda8e9876cc2aa271ccbfd1a.jpg)  
-
-  [点此可查看1g量勺的实物示意图(如您正阅读本文档的离线版)](ProjectManagement/InProgress/CEHDDPS/1gMeasuringSpoon.jpg)  
-
+  - "1g量勺", "勺子", "量勺" 在下文将指代 "1g量勺"  
 
 ------------------------------------------
 
-# 说明:  
+# 说明  
 
   本篇涉及的几乎所有营养物质都是摄入量与以下因素呈正比:  "体重，基础代谢率，当日活动量(体力和脑力活动)"   
   **人体每日所需营养物质并非一成不变 (例: 干体力活要吃更多饭(热量)，焦虑压力恐慌会导致人体维生素C消耗增加(肾上腺素等激素释放))，等等。 所以请读者根据自身具体情况而增减各物质用量**    
-  营养物质摄入后并不能百分之百被利用，比如，人的身体对氧化镁和柠檬酸镁的吸收率是不一样的。人体对营养吸收利用率与 身体对营养的利用率，人体身体状况，营养物质本身的性质...等因素有关。  
   所有营养物质最好分为早中晚三次随餐服用，每餐吃齐所有种类的成分，这样有利于最大化消化吸收利用各种营养成分(比如脂肪利于消化吸收利用维生素D，而维生素D的吸收利用又利于钙镁的吸收利用，镁的补充与吸收又利于钙的吸收利用，且水参与人体体内几乎所有的代谢过程)  
 
 ```
  Q1: 此处的营养品，补剂和食品为何如此低价?  
- A1: 本方案的低廉价格建立在读者自行寻找值得信任的廉价货源的基础(16\*8，或自己联络) (方案中各成分价格可能出现波动)  
+ A1: 本方案的低廉价格建立在读者自行寻找值得信任的廉价货源的基础(1x88，或自己联络) (方案中各成分价格可能出现波动)  
 ```
 
 ```
- Q2: 你们怎么老是推荐一些冷门的没听说过的东西甚至说是食品工业原料，安不安全?  
+ Q2: 你们怎么老是推荐一些冷门的没听说过的东西甚至食品工业原料，安不安全?  
  A2: 理论上较安全，虽然长期来说的对身体的影响尚无法研究 (本文的志愿者"零号小白鼠"已实践较长时间，其大致依照方案摄食时，一定时期内未发现身体状况明显变化)。况且200元一个月营养健康生活... 想要提升幸福感，则可借鉴各种同类型指南与问答站点的相关问题下的诸如"400-500吃饭的操作方案"。    
  小心一些价格过于低廉的货源，比如说零售价却比批发价还要低一半的价格(某些无良商家可能拿工业级产品冒充食品级产品，危害健康)  
 ```
@@ -130,11 +124,11 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
 
 ------------------------------------------
 
-# 正文目录:  
+# 目录  
 
-  [[#摘要]]  
+  [摘要](#摘要)  
 
-  [[#0.5 前置条件]]  
+  [0.5-前置条件](#0.5-前置条件)  
 
   1 关于本方案介绍  
     1.1 本方案适用条件  
@@ -142,78 +136,81 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
 
   2 方案具体内容  
     水  
-    [[#主食]]  
-    [[#蛋白质]]  
-    [[#脂肪]]  
-    [[#大部分微量元素与矿物质]]  
+    [主食](#主食)  
+    [蛋白质](#蛋白质)  
+    [脂肪](#脂肪)  
+    [大部分微量元素与矿物质](#大部分微量元素与矿物质)  
     钾钠  
-    [[#胆碱/卵磷脂]]  
+    [胆碱/卵磷脂](#胆碱/卵磷脂])  
     纤维素与维生素K(Vk)  
 
   3 方案额外内容(选读, DLC)  
 
-    [[#3.1 补品]]  
+  [3.1-补品](#3.1-补品)  
       Omega-3脂肪酸(益于心血管)  
       叶黄素酯+玉米黄质(益于眼)  
       辅酶Q10  
       ...  
 
-    [[#附录]]  
+  [附录](#附录)  
       1. 物质摄入量计算思路  
       2. 补剂详细成分表  
 
-    [[#致谢/笔者寄言/感想]]  
-    [[#参考文献]]  
+  [致谢/笔者寄言/感想](#致谢/笔者寄言/感想)  
+  [参考文献](#参考文献)  
 
 ------------------------------------------
 
-# 正文:  
+# 正文  
 
-## 摘要:  
+## 摘要  
 
-  本文介绍一种味同嚼蜡但是可以以极高性价比并节省时间的较长期维持相对身体健康的物质摄入方案。介绍其特点与具体如何实施方案, 适用话题：每月不到200CNY健康吃饭/战备粮/生存主义者  
+  本文介绍一种味同嚼蜡但是可以以极高性价比并节省时间的较长期维持相对身体健康的物质摄入方案。介绍其特点与具体实操方案, 适用话题：每月不到200CNY健康吃饭/战备粮/生存主义者  
 
   关键词：营养，健康，保健，性价比  
 
-## 0.5 前置条件
+## 0.5-前置条件
   读者需要有一定基础的 物理学/生物学 知识或常识 才能理解文中部分内容 (当然这些常识非常简单，不会占用读者太多时间)，笔者尽量使用通俗语言解释:  
 
-  1大卡(KCal)=1000卡=4.18千焦(KJ)  
-  xxx/100g 代表每百克的某种物质中含有多少xxx (xxx代指各种单位, 例: "8894KJ/100g","64g/100g")  
-  代谢当量(Metablic Equivalent，简称:MET)，可以被理解为特定活动状态下相对于静息代谢 (安静的坐着休息，Resting Metabolic)状态的身体的能耗水平。(通俗讲，体力劳动者每日耗能多，则其代谢当量(MET)大)  
-  健康成年人坐位安静状态下耗氧量为3.5ml/(kg·min)，将此定为1MET; 作为参考:睡觉0.9MET，柔软体操3.5MET  
+  - 1大卡(KCal) = 1000卡(Cal) ≈ 4.184千焦(KJ)  
+  - xxx/100g 代表每百克的某种物质中含有多少xxx (xxx代指各种单位, 例: "8894KJ/100g","64g/100g")  
+  - 代谢当量(Metablic Equivalent，简称:MET)，可以被理解为特定活动状态下相对于静息代谢 (安静的坐着休息，Resting Metabolic)状态的身体的能耗水平。(通俗讲，体力劳动者每日耗能多，则其代谢当量(MET)大)  
+    - 健康成年人坐位安静状态下耗氧量为3.5ml/(kg·min)，将此定为1MET; 作为参考:睡觉0.9MET，柔软体操3.5MET  
 
-  g:(克) kg:(千克) 1kg=1000g  "千克"为国际单位制中度量质量的基本单位 (度量某某东西的重量多沉。) 在大陆地区一千克=两斤  (1L(1000ml)纯水的质量为1kg，体积为1000cm3)  
-  mL:(milliliter 毫升) 计量液体体积的单位 1L(1升)=1000ml  
-  h:(hour 小时), month:月  
+  - g: (克), kg: (千克); 1kg = 1000g; "千克"为国际单位制中度量质量的基本单位 (度量某某东西多沉。); 在大陆地区一千克=两斤; (1L (1000ml) 纯水体积为1000cm3，在理想状况下的质量为1kg)  
+  - mL: (milliliter 毫升) 是计量液体体积的单位, 1L(1升) = 1000ml  
+  - h: (hour 小时), month: 月  
 
-  CNY: "Chinese Yuan"(代表"人民币") 的首字母缩写  
+  - CNY: "Chinese Yuan"(代表"人民币") 的首字母缩写  
   (请不要嫌笔者啰嗦，毕竟在各位看来再基础的东西 也会有人不知道，并非所有人都有足够优越的条件，小心"知识的诅咒"。)  
+
+
+  选读内容: 营养物质摄入后并不能百分之百被利用，比如，人的身体对氧化镁和柠檬酸镁的吸收率是不一样的。人体对营养吸收利用率与 身体对营养的利用率，人体身体状况，营养物质本身的性质...等因素有关。  
 
 ## 1. 方案介绍  
 
-### 1.1 本方案适用条件  
+### 1.1-本方案适用条件  
 
   本方案所有 含有详细信息的内容 皆经人体临床试验验证有效(大概…)(诚邀志愿者参与实验并反馈结果):  
     - **零号小白鼠: 笔者的自嘲式自称**  
 
   零号小白鼠:  
-    (零号小白鼠(2023.08.20-2025.03.01): 已按以下条件累积生活至少12个月((不保证连续性，只保证累计时间) 每4个月连续使用CEHDDPS饮食方案后，则进行大众饮食方式1-2个月。(然后进行若干个此种循环)))  
+    (零号小白鼠(2023.08.20-2025.04.19): 已按以下条件累积生活至少14个月((不保证连续性，只保证累计时间) 每4个月连续依照CEHDDPS进行饮食后，则进行大众饮食方式1-2个月。(然后进行若干个此种循环)))  
     (零号小白鼠的身体状况与正常饮食时期相比，无明显变化(少有疾病，无各类营养素缺乏症))  
 
-  零号小白鼠的理想状况:(方案中各种推荐的实操数据皆建立在此条件上)  
+  零号小白鼠的 理想状况: (方案中各种推荐的实操数据皆基于此)  
     1. 体重60kg左右的18-35岁亚洲成年男性人类，bmi:19-24(即平均胖瘦) (成年人类平均体重70kg，但本文以60kg计)  
-    2. 平均每日7.5h实际睡眠时间(躺下入睡前但尚未完全失去意识的时段不计入)，不睡午觉  
-    3. 无受伤无疾病无身体缺陷无身体部位缺失且未接受过某些保健治疗，未经历基因编辑，无对身体有明显危害的不良嗜好(烟/酒/物质滥用...)  
-    4. 没有或少有方案外其他来源的营养摄入(水果, 零食...)，即使有也会计算营养值而使得最终营养摄入与平日近似  
-    5. 零号小白鼠完全遵守建议，采用方案中建议的摄入方式以及摄入量摄入营养物质  
+    2. 平均每日7.5h实际睡眠时间(躺下入睡前但尚未完全失去意识的时段不计入)，无午觉习惯  
+    3. 无受伤无疾病无身体缺陷无身体部位缺失，且未接受过某些保健治疗，无对身体公认有较大危害的爱好(烟/酒/物质滥用...)  
+    4. 无或少有方案外其他来源的营养摄入(水果, 零食...)，即使有，也会计算营养值而使得最终营养摄入与平日近似  
+    5. 除例外意外情况，零号小白鼠则完全遵守建议，采用方案中建议的摄入方式以及摄入量摄入营养物质  
     6. 每日活动量为文员活动量，无或略有减肥健身健美之类的改变身体状况的需求。 此方案目的是为了维持体重并维持健康生活  
 
-  零号小白鼠 在实验过程中与理想状况有出入的情况:  
+  零号小白鼠 在实验过程中与 "理想状况" 有出入的情况:  
 
-    不定时有蔬菜水果摄入作为纤维素摄入途径，不定时有零食摄入 (请原谅零号小白鼠，其未有足够坚强的意志以完全执行方案从而奉献于本方案变量控制的完善)  
+    不定时有零食摄入 (请原谅零号小白鼠，其未有足够坚强的意志以完全执行方案从而奉献于本方案变量控制的完善)  
     每日额外物料摄入 ("额外内容"部分 + 咖啡因茶氨酸)  
-    几乎从不刻意补充钾钠 (因为零号小白鼠懒。况且其会由其他途径补充，或直接忽略)  
+    几乎从不刻意补充钾钠 (因零号小白鼠懒。且此类物质会经其他途径补充，或直接忽略)  
 
 ### 1.2 本方案 特点/设计原则 (本方案与市面其他竞品的差异点 / 本方案的核心竞争力所在):  
 
@@ -297,7 +294,6 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
       谷类食品普遍略缺乏赖氨酸，豆类食品普遍较大程度缺乏蛋氨酸  
       小麦及小麦制品(煎饼,馒头,白面包，燕麦...)每百克含10g左右的纯蛋白质(虽然它们的蛋白质生物学价值只有肉蛋奶的一半甚至不到一半)  
       熟米只有约2.5g纯蛋白质/每百克 (不过米的蛋白质生物学价值意外的接近肉蛋奶)  
-      冷知识：大米可以生食而不致消化问题身体出问题等状况，只不过口感不好说  
 
     3. 关于燕麦片:  
 
@@ -315,7 +311,7 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
       燕麦 脂肪含量相较于其他谷类主食较多，因而单位重量的燕麦在能量供给上更具性价比  
       燕麦 饱腹感强  
       燕麦 作为谷物中的粗粮类，相对较难消化，带来的是低PI(升糖指数)(对人更有益，尤其是糖尿病人) 和 饮食方式不当而可能导致的消化问题  
-      经"零号小白鼠"人体实验发现，空腹单次摄入超过50g的燕麦易引发反胃   (胃里如果只有燕麦这种相对难消化的食物而没有与其他食物同时消化则容易引发反胃症状。(经实验发现燕麦可与 1.25倍质量的面包 或 0.4倍质量的冲泡的蛋白质粉 同食而不引发反胃(例:80g燕麦配100g面包)))  
+      经"零号小白鼠"人体实验得，空腹单次摄入超过50g的燕麦易引发反胃   (胃里如果只有燕麦这种相对难消化的食物而没有与其他食物同时消化则容易引发反胃症状。(经实验发现燕麦可与 1.25倍质量的面包 或 0.4倍质量的冲泡的蛋白质粉 同食而不引发反胃(例:80g燕麦配100g面包)))  
 
     4. 关于工业主食制品  
       方便面压缩饼干之类保质期长的食物少吃为妙(并非完全不吃)，因添加剂等问题。 
@@ -335,8 +331,10 @@ word count: 10854 (字数)(核心部分(正文)字数5610字)
   - \_凉水或温水摇匀冲泡饮用(不要用开水))，水:蛋白粉质量比=10:1(豆汁味)\_蛋白质\_以上总计16CNY/month  
 ```
 Q: 为何蛋白质只吃这么少?
-A: 此处蛋白质用量建立在读者按照上述"主食"部分进行饮食的基础上(500g熟面食，各类主食中含一定量蛋白质)  
+A: 此处蛋白质用量建立在读者按照上述"主食"部分进行饮食的基础上(500g熟面食，各类主食中含一定量蛋白质且能与大豆蛋白一定程度上互补)[^7]  
 ```
+[^7]
+
   注意事项:  
     1. !!!冲泡时注意蛋白质质量比(**小心，蛋氨酸勿过多地超过标准摄入量**)  
     2. 不脱酶的大豆分离蛋白更便宜，但食用前需先加热蒸煮以去酶  
@@ -363,11 +361,13 @@ A: 此处蛋白质用量建立在读者按照上述"主食"部分进行饮食的
     4. (每3\*30片硬质药片约为60g重(3\*30为每月用量))  
 
 ##### 钾钠    
-**(这里其实笔者也不知下列物质精确适合用量，理论上如下文，实际不确定)**
+**(这里其实笔者也暂时不知如何标定下列物质精确适合用量，理论如下文，实际不确定)**  
+**(这里其实笔者也暂时不知如何标定下列物质精确适合用量，理论如下文，实际不确定)**  
+**(这里其实笔者也暂时不知如何标定下列物质精确适合用量，理论如下文，实际不确定)**  
 
-钾1000mg，钠2000-1200左右mg-盐3.0g?(为了补钠(上面的大豆分离蛋白中含部分钠))  自行决定补充途径及最终用量(如感胃肠道刺激则随 牛奶/果汁... 服用)
+**钾钠适量**
+~~钾1000mg，钠2000-1200左右mg-盐3.0g?~~(为了补钠(上面的大豆分离蛋白中含部分钠))  自行决定补充途径及最终用量(如感胃肠道刺激则随 牛奶/果汁... 服用)
 (**务必分批次(随三餐)服用!，勿短时间内服用一日的用量!!!，如单次摄入大剂量钾或有致命可能(心律失常/高钾血症)!!!**)
-(以柠檬酸钾形式补钾时需要大约每日半平勺(不精准)，以氯化钾(也就是盐)形式补钾时需要大约每日1/4平勺(不精准)(其实此处理论上应为氯化钾半平勺或柠檬酸钾以平勺。为保险而减少推荐用量，然后请读者找到适合自己的用量)(下文关于勺的定义请参见本方案起始部分的"**[[#术语定义]]**")  
 (出汗量比适用条件时大时，自行决定是否额外补充钾钠以及额外补充量，食物中的隐形钠/钾也算进去)\_几乎无成本    
 
 注意事项:   
@@ -398,7 +398,7 @@ A: 此处蛋白质用量建立在读者按照上述"主食"部分进行饮食的
 (一些团购订菜平台挺好用，廉价菜品)     
 
 ## 3. 方案额外内容(选读, DLC)
-### 3.1 补品
+### 3.1-补品
 额外内容服务于那些希望在本方案基础上无需额外花费很多钱就能让身体更健康的人(这一套下来不会超过150CNY/Month，但补剂效果足够有性价比)，方案额外内容如下:  
 
 ###### 叶黄素酯+玉米黄质(益于眼)
@@ -427,12 +427,12 @@ etc. (待未来更新)
 
 
 
-## 附录:
+## 附录
 
 ### 1. 物质摄入量计算思路
 (笔者以本方案中的每日蛋氨酸摄入量的计算过程为例)  
 
-  1. 首先查阅若干相关文献，整合后得出结论: 每千克体重每日需摄入14或15mg的蛋氨酸，每克大豆分离蛋白提供11.3mg的蛋氨酸，etc.  
+  1. 首先查阅若干相关文献，整合荟萃后得出结论: 每千克体重每日需摄入14或15mg的蛋氨酸，每克大豆分离蛋白提供11.3mg的蛋氨酸，etc.  
   2. 60kg男性则每日需求15\*60=900mg蛋氨酸，，且考虑其他食材也会提供蛋氨酸  
   3. 而本方案为保持各必须氨基酸成一定比例，(此处省略若干字，省略 科学计算+捏造拟合数据的俺寻思+留点安全冗余...等过程)  
   4. 证得: 除了大豆分离蛋白中的少量蛋氨酸，还需额外摄入...的蛋氨酸  
@@ -454,14 +454,14 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
  
 ## 参考文献
 
-[1] Food and Nutrition Board, Institute of Medicine, National Academies. (2004). Dietary Reference Intakes (DRIs): Recommended Intakes for Individuals (PDF Form , Original content archived at "WayBackMachine"). (https://web.archive.org/web/20130314000722/http:/www.iom.edu/Global/News%20Announcements/~/media/Files/Activity%20Files/Nutrition/DRIs/DRI_Summary_Listing.pdf)  
-[2] [Scientific Opinion on the safety and efficacy of taurine as a feed additive for all animal species - - 2012 - EFSA Journal - Wiley Online Library](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2012.2736)    
-[3] [Acute effects of tea constituents L-theanine, caffeine, and epigallocatechin gallate on cognitive function and mood: a systematic review and meta-analysis | Nutrition Reviews | Oxford Academic (oup.com)]\(https://academic.oup.com/nutritionreviews/article/72/8/507/1919604)    
-[4] [How To Quit Caffeine Without a Headache (clevelandclinic.org)](https://health.clevelandclinic.org/how-to-quit-caffeine/)    
-[5] [FoodData Central (usda.gov)](https://fdc.nal.usda.gov/index.html)    
-[6] Gorissen SHM, Crombag JJR, Senden JMG, Waterval WAH, Bierau J, Verdijk LB, van Loon LJC. Protein content and amino acid composition of commercially available plant-based protein isolates. Amino Acids. 2018 Dec;50(12):1685-1695. doi: 10.1007/s00726-018-2640-5. Epub 2018 Aug 30. PMID: 30167963; PMCID: PMC6245118.    
-[7] 魏倩.豆类蛋白和谷物蛋白的功能性对比[J].粮食加工,2018,(1):36-41.    
-[n] 佚名们. 如果要写所有贡献者的话，笔者确信这里应该有很多，但笔者懒得写了. (从水下第一个生命的萌芽开始-现在).  
+[^1]: Food and Nutrition Board, Institute of Medicine, National Academies. (2004). Dietary Reference Intakes (DRIs): Recommended Intakes for Individuals (PDF Form , Original content archived at "WayBackMachine"). (https://web.archive.org/web/20130314000722/http:/www.iom.edu/Global/News%20Announcements/~/media/Files/Activity%20Files/Nutrition/DRIs/DRI_Summary_Listing.pdf)  
+[^2]: [Scientific Opinion on the safety and efficacy of taurine as a feed additive for all animal species - - 2012 - EFSA Journal - Wiley Online Library](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2012.2736)    
+[^3]: [Acute effects of tea constituents L-theanine, caffeine, and epigallocatechin gallate on cognitive function and mood: a systematic review and meta-analysis | Nutrition Reviews | Oxford Academic (oup.com)](https://academic.oup.com/nutritionreviews/article/72/8/507/1919604)  
+[^4]: [How To Quit Caffeine Without a Headache (clevelandclinic.org)](https://health.clevelandclinic.org/how-to-quit-caffeine/)    
+[^5]: [FoodData Central (usda.gov)](https://fdc.nal.usda.gov/index.html)    
+[^6]: Gorissen SHM, Crombag JJR, Senden JMG, Waterval WAH, Bierau J, Verdijk LB, van Loon LJC. Protein content and amino acid composition of commercially available plant-based protein isolates. Amino Acids. 2018 Dec;50(12):1685-1695. doi: 10.1007/s00726-018-2640-5. Epub 2018 Aug 30. PMID: 30167963; PMCID: PMC6245118.    
+[^7]: 魏倩.豆类蛋白和谷物蛋白的功能性对比[J].粮食加工,2018,(1):36-41.    
+[^n]: 佚名们. 如果要写所有贡献者的话，笔者确信这里应该有很多，但笔者懒得写了. (从水下第一个生命的萌芽开始-现在).  
 
 ------------------------------------------
 
@@ -487,7 +487,7 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
     - \_以上均一日一粒，口服  
   钾钠:  
     - 适量盐~~3.0g?~~  
-    - 适量钾(~~柠檬酸钾每日一平勺 或 氯化钾每日半平勺~~)(请务必分批次(随三餐)服用，勿一次服用一日的用量) (下文关于勺的定义请参见本方案起始部分的"**[[#术语定义]]**")  
+    - 适量钾(~~柠檬酸钾每日一平勺 或 氯化钾每日半平勺~~)(请务必分批次(随三餐)服用，勿短时间内服用一日的用量) (下文关于勺的定义请参见本方案起始部分的"**[术语定义](#术语定义)**")  
   胆碱/卵磷脂:  
     - 每天吃四个鸡蛋的蛋黄(如伴随摄入相应的鸡蛋白，则纯蛋白质摄入10-20g)  或  食品级大豆卵磷脂粉一日20g冲泡服用(15.38cm3)   
   纤维素与维生素K(Vk):  
@@ -497,7 +497,7 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
 
 ------------------------------------------
 
-# 免责协议、版权声明、建议批评:  
+# 免责协议、版权声明、建议批评  
  
   阅读本文即代表您已自动同意并遵循以下协议与说明:  
 
@@ -514,7 +514,7 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
     - 本文作者不保证内容的准确性、中立性、结构严谨性和无倾向性逻辑性，尽管作者已尽力确保用词准确并保持一定的文章结构。  
 
   版权声明:  
-  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">CEHDDPS</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://mailto:ChaconneJay@outlook.com">SawedoffShotgun</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License)<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">CEHDDPS</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://mailto:ChaconneJay@outlook.com">SawedoffShotgun116</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License)<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
   即:  
     - 欢迎以任何媒介或格式复制、重新分发、转载、引用和摘抄本作品。并且在进行上述操作时也请遵守上述协议  
     - 本作品如蒙转载分发，请注明原始链接与原作者  
@@ -526,7 +526,7 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
 
 ------------------------------------------
 
-# 更新日志:    
+# 更新日志    
 
   - 2025.03.01  
    - 14:40  
@@ -542,11 +542,11 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
 
   - 2024.07.11  
    - 17:14  
-    - v2.0.1.5 - 更新 "大豆分离蛋白" 的用量为25g每日(仍基于每日500g面食摄入的基础)  
+    - v2.0.1.5 - 更新 "大豆分离蛋白" 的用量为25g每日 (仍基于每日500g面食摄入的基础)  
 
   - 2024.06.30  
    - 21:45  
-    - v2.0.1.4 - 更新 "蛋氨酸" 的用量为每日0.5克，更新 "胆碱/卵磷脂" 用量(请参见原文的此部分)  
+    - v2.0.1.4 - 更新 "蛋氨酸" 的用量为每日0.5克，更新 "胆碱/卵磷脂" 用量 (请参见原文的此部分)  
 
   - 2024.06.26  
    - 18:49  
@@ -562,7 +562,7 @@ Kirkland Signature Calcium 600 mg. with Vitamin D3 https://www.amazon.com/Kirkla
 
 ------------------------------------------
 
-# 另见:
+# 参见
 
 
 ------------------------------------------
@@ -581,14 +581,14 @@ tags:
   - 生存  
   - 省钱  
   - 生活黑客  
-language: zh-Hans  
-
-author: SawedoffShotgun114  
+UDC: "613.2"  
+  
+author: SawedoffShotgun116  
 license: CC BY-NC-ND 4.0  
-
+language: zh-Hans  
+  
 date: 2023-08-20T12:24:00  
-updated: 2025-03-03T22:56:00  
+updated date: 2025-04-19T17:46:00  
 versions: 2.0.3.1  
 word count: 10854 (字数)(核心部分(正文)字数5610字)  
-
 ---
