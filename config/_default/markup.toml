@@ -14,7 +14,8 @@ inline = [['\(', '\)']]
 [tableOfContents]
 endLevel = 4
 ordered = true
-startLevel = 2
+startLevel = 1
+# startLevel default is 2
 
 [highlight]
 noClasses = false
