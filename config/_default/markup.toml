@@ -12,7 +12,8 @@ block = [['\[', '\]'], ['$$', '$$']]
 inline = [['\(', '\)']]
 
 [tableOfContents]
-endLevel = 4
+endLevel = 6
+# endLevel default is 4
 ordered = true
 startLevel = 1
 # startLevel default is 2
